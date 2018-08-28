@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fa0127</color>
+    <color name="colorPrimaryDark">#f50420</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorGroup">#e9e7e7</color>
+    <color name="colorChild">#f4f0f0</color>
+    <color name="colorTableDivider">#efeff1</color>
+    <color name="colorTable">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="colorPos">#f92828</color>
+    <color name="colorNeg">#9FE554</color>
+    <color name="colorGroupStroke">#d9d4d4</color>
+</resources>
